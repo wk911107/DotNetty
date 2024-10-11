@@ -4,7 +4,7 @@
 namespace DotNetty.Common
 {
     /// <summary>
-    ///     Reference counting interface for reusable objects
+    ///     Reference counting interface for reusable objects   
     /// </summary>
     public interface IReferenceCounted
     {
